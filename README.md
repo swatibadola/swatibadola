@@ -1,9 +1,9 @@
-# Hi, I'm Swati ✨
+# 👋 Hi there, I'm Swati!
 
 🎓 Final-year B.Tech student in Mechatronics Engineering @ DSEU (2025) <br>
 🧠 AI & Machine Learning Enthusiast | Passionate about solving real-world problems 
 
-# 🚀 What I'm Working On:
+## 🚀 What I'm Working On:
 🔧 Building **production-ready Machine Learning models** with deployment-ready pipelines  
  📚 Strengthening my foundation in **Large Language Models (LLMs)** and **multimodal systems**  
  📊 Exploring datasets through complete **ML workflows**: from preprocessing to prediction  
