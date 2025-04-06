@@ -5,8 +5,8 @@
 
 ## 🚀 What I'm Working On:
 🔧 Building **production-ready Machine Learning models** with deployment-ready pipelines  
- 📚 Strengthening my foundation in **Large Language Models (LLMs)** and **multimodal systems**  
- 📊 Exploring datasets through complete **ML workflows**: from preprocessing to prediction  
+📚 Strengthening my foundation in **Large Language Models (LLMs)** and **multimodal systems**  
+📊 Exploring datasets through complete **ML workflows**: from preprocessing to prediction  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swati-badola-b28a2722a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SwatiBadola3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swatibadola39@gmail.com) 
