@@ -5,7 +5,7 @@
 I'm passionate about solving real-world problems with a strong interest in **Data Science, machine learning,** and **Artificial intelligence**. 
 
 🔧 Building **production-ready Machine Learning models** with deployment-ready pipelines  
-📚 Strengthening my foundation in **Large Language Models (LLMs)** and **multimodal systems**  
+📚 Strengthening my foundation in **Computer Vision** and **Large Language Models (LLMs)**  
 📊 Exploring datasets through complete **ML workflows**: from preprocessing to prediction </br>
 💬 Talk to me about **machine learning** or **data science.**
 
